@@ -18,7 +18,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<meta name="description" content="For SEO">
 
-	<title><?php echo $meta_title; ?>| Suits &amp; Sandals Sample Framework</title>
+	<title><?php echo $meta_title; ?>YOUNG-BORRA</title>
 	<meta name="description" content="<?php echo $meta_desc; ?>"/>
 	<meta name="keywords" content="<?php echo $meta_keywords; ?>">
 
@@ -71,17 +71,15 @@
 	<!-- main-title -->
 	<div class="siteTitle">
 		<h1 class="siteTitle_logo">
-			Demo
+			<img src="images/logo.png" alt="Young-Borra">
 		</h1>
 	</div>
 
 	<nav class="siteNav" role="navigation">
-		<a href="#navList" class="siteNav_button" id="navBtn">MENU</a>
 		<ul class="siteNav_list" id="navList">
-			<li class="siteNav_item" ><a href="index" class="nav-main_link">Home</a></li>
-			<li class="siteNav_item" ><a href="#" class="nav-main_link">About</a></li>
-			<li class="siteNav_item" ><a href="#" class="nav-main_link">Another Page</a></li>
-			<li class="siteNav_item" ><a href="contact" class="nav-main_link">Contact</a></li>
+			<li class="siteNav_item" ><a href="index" class="nav-main_link">Biography</a></li>
+			<li class="siteNav_item" ><a href="social" class="nav-main_link">Social Media</a></li>
+			<li class="siteNav_item" ><a href="contact" class="nav-main_link">Contact Us</a></li>
 		</ul>
 	</nav>
 

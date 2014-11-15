@@ -1,18 +1,18 @@
-sassysiren
-==========
 
-# Siren Framework # 
-## Version 3.3 ##
+
+# Siren Framework #
+# Version 3.3 #
 by Zachary Brady
 www.zacharybrady.com
 www.suits-sandals.com
 
 
-## About ##
+## ABOUT THE FRAMEWORK##
+Version 3.3 | by Zachary Brady | www.zacharybrady.com | www.suits-sandals.com
 Siren is the work horse quick start website framework for Suits & Sandals, LLC. It strives to provide simple building blocks in order to make starting a project quicker while maintaining best practices. Siren is design to handle a variety of use cases and should be edited to perfectly fit the project at hand. Lastly, this is a living framework that is constantly updated as lessons are learned and discoveries are made.
 
 
-## Dependencies ##
+## FRAMEWORK DEPENDENCIES ##
 The following list are the dependencies built into Siren.
 
 - PHP 5.0 +
@@ -114,7 +114,7 @@ Siren is an extension of its creator's, Zachary Brady, key philosophies in regar
 
 ## Use and Contact Information ##
 The Siren Framework is free to use in projects as allowed in its MIT license. Feel free to Fork, submit Issues, etc on Github.
-You can reach Zachary at zachary@sasbranding.com for questions regarding the framework, for inqueries about services offered by Suits & Sandals, LLC. , or for job opportunities.
+You can reach Zachary at zachary@suits-sandals.com for questions regarding the framework, for inqueries about services offered by Suits & Sandals, LLC. , or for job opportunities.
 
 
 ## Headline Format ##

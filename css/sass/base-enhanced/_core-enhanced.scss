@@ -48,10 +48,10 @@ body{
 
 a{
 	text-decoration: none; 
-	color: $color4;
+	color: $color1;
 
 	&:hover, &:focus, &:active {
-		color: darken($color4,15%);
+		color: lighten($color1,15%);
 	}
 
 	&:focus{
@@ -59,7 +59,7 @@ a{
 	}
 
 	&:focus img { 
-		border: 1px $color4 solid;
+		border: 1px $color1 solid;
 	}
 }
 
@@ -122,6 +122,7 @@ img{
 
 ol, ul, li{	
 	@include adjust-font-size-to($primary_size);
+	padding:0;
 }
 
 

@@ -6,7 +6,7 @@
 ?>
 
 <footer class="footer-main">
-	<p class="footer-main_content">Legal Jargon</p>
+	<p class="footer-main_content"></p>
 </footer>
 
 
